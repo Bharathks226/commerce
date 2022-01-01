@@ -205,3 +205,35 @@
 01012022 01:00:30 PM: INFO: ********* Add customer validation started *****************
 01012022 01:00:31 PM: INFO: ********* Add customer Test Passed *********
 01012022 01:00:31 PM: INFO: ******* Ending Add customer test **********
+01012022 02:22:50 PM: INFO: ************* Test_003_AddCustomer **********
+01012022 02:22:58 PM: INFO: ************* Login succesful **********
+01012022 02:22:58 PM: INFO: ******* Starting Add Customer Test **********
+01012022 02:23:01 PM: INFO: ***************Test_001_Login*******
+01012022 02:23:03 PM: INFO: ***************Home page Title Passed *******
+01012022 02:23:16 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+01012022 02:23:16 PM: INFO: ******* Starting Login DDT Test **********
+01012022 02:23:27 PM: INFO: **** passed ****
+01012022 02:23:38 PM: INFO: **** passed ****
+01012022 02:23:40 PM: INFO: ************* SearchCustomerByEmail_004 **********
+01012022 02:23:49 PM: INFO: ************* Login succesful **********
+01012022 02:23:49 PM: INFO: ******* Starting Search Customer By Email **********
+01012022 02:23:52 PM: INFO: ************* SearchCustomerByName_005 **********
+01012022 02:24:00 PM: INFO: ************* Login succesful **********
+01012022 02:24:00 PM: INFO: ******* Starting Search Customer By Name **********
+01012022 02:24:20 PM: INFO: ************* Test_003_AddCustomer **********
+01012022 02:24:28 PM: INFO: ************* Login succesful **********
+01012022 02:24:28 PM: INFO: ******* Starting Add Customer Test **********
+01012022 02:24:31 PM: INFO: ***************Test_001_Login*******
+01012022 02:24:33 PM: INFO: ***************Home page Title Passed *******
+01012022 02:24:47 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+01012022 02:24:47 PM: INFO: ******* Starting Login DDT Test **********
+01012022 02:25:00 PM: INFO: **** passed ****
+01012022 02:25:08 PM: INFO: **** passed ****
+01012022 02:25:11 PM: INFO: ************* SearchCustomerByEmail_004 **********
+01012022 02:25:20 PM: INFO: ************* Login succesful **********
+01012022 02:25:20 PM: INFO: ******* Starting Search Customer By Email **********
+01012022 02:25:23 PM: INFO: ************* SearchCustomerByName_005 **********
+01012022 02:25:31 PM: INFO: ************* Login succesful **********
+01012022 02:25:31 PM: INFO: ******* Starting Search Customer By Name **********
+01012022 02:30:17 PM: INFO: ***************Test_001_Login*******
+01012022 02:30:23 PM: INFO: ***************Home page Title Passed *******
