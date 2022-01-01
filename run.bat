@@ -1,1 +1,1 @@
-pytest testCases/ 
+pytest testCases/test_login.py
