@@ -264,3 +264,39 @@
 01022022 04:34:11 AM: INFO: ******* Starting Search Customer By Name **********
 01022022 04:34:15 AM: INFO: ************* searching customer by Name **********
 01022022 04:34:21 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+01022022 04:52:50 AM: INFO: ************* Test_003_AddCustomer **********
+01022022 05:05:04 AM: INFO: ************* Test_003_AddCustomer **********
+01022022 05:05:09 AM: INFO: ************* Login succesful **********
+01022022 05:05:09 AM: INFO: ******* Starting Add Customer Test **********
+01022022 05:05:12 AM: INFO: ************* Providing customer info **********
+01022022 05:05:25 AM: INFO: ************* Saving customer info **********
+01022022 05:05:25 AM: INFO: ********* Add customer validation started *****************
+01022022 05:05:27 AM: INFO: ********* Add customer Test Passed *********
+01022022 05:05:27 AM: INFO: ******* Ending Add customer test **********
+01022022 05:05:28 AM: INFO: ***************Test_001_Login*******
+01022022 05:05:31 AM: INFO: ***************Home page Title Passed *******
+01022022 05:05:41 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+01022022 05:05:41 AM: INFO: ******* Starting Login DDT Test **********
+01022022 05:05:54 AM: INFO: **** passed ****
+01022022 05:06:03 AM: INFO: **** passed ****
+01022022 05:06:05 AM: INFO: ************* SearchCustomerByEmail_004 **********
+01022022 05:06:13 AM: INFO: ************* Login succesful **********
+01022022 05:06:13 AM: INFO: ******* Starting Search Customer By Email **********
+01022022 05:06:14 AM: INFO: ************* searching customer by emailID **********
+01022022 05:06:20 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+01022022 05:06:21 AM: INFO: ************* SearchCustomerByName_005 **********
+01022022 05:06:29 AM: INFO: ************* Login succesful **********
+01022022 05:06:29 AM: INFO: ******* Starting Search Customer By Name **********
+01022022 05:06:32 AM: INFO: ************* searching customer by Name **********
+01022022 05:06:38 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+01022022 05:10:09 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+01022022 05:10:09 AM: INFO: ******* Starting Login DDT Test **********
+01022022 05:12:45 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+01022022 05:12:45 AM: INFO: ******* Starting Login DDT Test **********
+01022022 05:12:58 AM: INFO: **** passed ****
+01022022 05:13:08 AM: INFO: **** passed ****
+01022022 05:13:13 AM: INFO: **** passed ****
+01022022 05:13:20 AM: INFO: **** passed ****
+01022022 05:13:20 AM: INFO: ******* DDT Login test passed **********
+01022022 05:13:20 AM: INFO: ******* End of Login DDT Test **********
+01022022 05:13:20 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
