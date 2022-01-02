@@ -237,3 +237,30 @@
 01012022 02:25:31 PM: INFO: ******* Starting Search Customer By Name **********
 01012022 02:30:17 PM: INFO: ***************Test_001_Login*******
 01012022 02:30:23 PM: INFO: ***************Home page Title Passed *******
+01012022 03:49:37 PM: INFO: ************* Test_003_AddCustomer **********
+01012022 03:49:48 PM: INFO: ************* Login succesful **********
+01012022 03:49:48 PM: INFO: ******* Starting Add Customer Test **********
+01012022 03:49:51 PM: INFO: ***************Test_001_Login*******
+01012022 03:49:55 PM: INFO: ***************Home page Title Passed *******
+01012022 03:50:25 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+01012022 03:50:25 PM: INFO: ******* Starting Login DDT Test **********
+01022022 04:32:51 AM: INFO: ************* Test_003_AddCustomer **********
+01022022 04:32:59 AM: INFO: ************* Login succesful **********
+01022022 04:32:59 AM: INFO: ******* Starting Add Customer Test **********
+01022022 04:33:03 AM: INFO: ************* Providing customer info **********
+01022022 04:33:13 AM: INFO: ***************Test_001_Login*******
+01022022 04:33:14 AM: INFO: ***************Home page Title Passed *******
+01022022 04:33:23 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+01022022 04:33:23 AM: INFO: ******* Starting Login DDT Test **********
+01022022 04:33:35 AM: INFO: **** passed ****
+01022022 04:33:44 AM: INFO: **** passed ****
+01022022 04:33:46 AM: INFO: ************* SearchCustomerByEmail_004 **********
+01022022 04:33:54 AM: INFO: ************* Login succesful **********
+01022022 04:33:54 AM: INFO: ******* Starting Search Customer By Email **********
+01022022 04:33:56 AM: INFO: ************* searching customer by emailID **********
+01022022 04:34:01 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+01022022 04:34:03 AM: INFO: ************* SearchCustomerByName_005 **********
+01022022 04:34:11 AM: INFO: ************* Login succesful **********
+01022022 04:34:11 AM: INFO: ******* Starting Search Customer By Name **********
+01022022 04:34:15 AM: INFO: ************* searching customer by Name **********
+01022022 04:34:21 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
