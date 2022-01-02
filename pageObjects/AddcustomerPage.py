@@ -8,7 +8,7 @@ class AddCustomer:
     btnAddnew_xpath = "//a[@class='btn btn-primary']"
     txtEmail_xpath = "//input[@id='Email']"
     txtPassword_xpath = "//input[@id='Password']"
-    txtcustomerRoles_xpath = "//div[@class='k-multiselect-wrap k-floatwrap']"
+    txtcustomerRoles_xpath = "(//div[@class='k-multiselect-wrap k-floatwrap'])[2]"
     lstitemAdministrators_xpath = "//li[contains(text(),'Administrators')]"
     lstitemRegistered_xpath = "//li[contains(text(),'Registered')]"
     lstitemGuests_xpath = "//li[contains(text(),'Guests')]"
